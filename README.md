@@ -7,7 +7,7 @@ I enjoy writing code, working on small projects, and learning new things every d
 Most of my focus right now is on **C++ (especially OOP)**, **Data Structures**, and improving my problem-solving skills.  
 I also spend time learning **JavaScript** and basic **web development** to build real projects.
 
----
+
 
 ## 🚀 Skills & Technologies
 
@@ -30,8 +30,6 @@ I also spend time learning **JavaScript** and basic **web development** to build
 - Linux/Terminal  
 - Figma (basic)
 
----
-
 ## 📘 Projects (Work in Progress)
 
 ### **Bank Management System (C++)**
@@ -48,7 +46,7 @@ A personal website made with HTML, CSS, and JavaScript.
 ### **DSA Practice**
 All of my C++ coding practice for linked lists, stacks, queues, trees, sorting, and more.
 
----
+
 
 ## 📊 GitHub Activity
 I try to upload code regularly and stay consistent with my learning.
@@ -58,7 +56,7 @@ I try to upload code regularly and stay consistent with my learning.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manan016" height="160" />
 </p>
 
----
+
 
 ## 🎯 Goals for 2025
 - Improve my understanding of C++ and DSA  
@@ -67,14 +65,14 @@ I try to upload code regularly and stay consistent with my learning.
 - Upload code at least 5 days a week  
 - Create a professional CV and SOP
 
----
+
 
 ## 🌍 Contact
 📧 Email: abdulmanan@example.com  
 🔗 GitHub: https://github.com/manan016  
 📍 Pakistan (Planning for Germany 🇩🇪)
 
----
+
 
 Thanks for visiting my profile!  
 I'm always open to learning new things and working on interesting ideas.
